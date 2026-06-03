@@ -1,7 +1,7 @@
 {
+  "$schema": "https://raw.githubusercontent.com/OleWunschmann/AL-Go/update-with-customALGoFiles-of-template/Actions/.Modules/settings.schema.json",
   "shell": "pwsh",
   "type": "PTE",
-  "$schema": "https://raw.githubusercontent.com/OleWunschmann/AL-Go/update-with-customALGoFiles-of-template/Actions/.Modules/settings.schema.json",
   "templateSha": "d7b4206df77bad9b2b184c770ec69bcf71652efd",
   "templateUrl": "https://github.com/OleWunschmann/tmpm12o3p-template@main",
   "runs-on": "ubuntu-latest",
