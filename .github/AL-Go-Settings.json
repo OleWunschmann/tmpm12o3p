@@ -1,10 +1,11 @@
 {
-  "useCompilerFolder": true,
   "$schema": "https://raw.githubusercontent.com/OleWunschmann/AL-Go/update-with-customALGoFiles-of-template/Actions/.Modules/settings.schema.json",
+  "useCompilerFolder": true,
   "doNotPublishApps": true,
-  "templateUrl": "https://github.com/OleWunschmann/AL-Go@update-with-customALGoFiles-of-template",
+  "templateUrl": "https://github.com/OleWunschmann/tmpm12o3p-template@main",
   "runs-on": "ubuntu-latest",
   "MicrosoftTelemetryConnectionString": "",
   "type": "PTE",
-  "shell": "pwsh"
+  "shell": "pwsh",
+  "templateSha": "577406089cb073104a65e9c02dd4679667c91c57"
 }
