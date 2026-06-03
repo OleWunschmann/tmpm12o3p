@@ -7,5 +7,5 @@
   "MicrosoftTelemetryConnectionString": "",
   "type": "PTE",
   "shell": "pwsh",
-  "templateSha": "577406089cb073104a65e9c02dd4679667c91c57"
+  "templateSha": "d7b4206df77bad9b2b184c770ec69bcf71652efd"
 }
