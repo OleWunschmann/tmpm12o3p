@@ -1,0 +1,20 @@
+{
+  "id": "5e25d093-cff7-482e-a91f-c19802a34f19",
+  "name": "MyApp",
+  "version": "1.0.0.0",
+  "publisher": "Contoso",
+  "runtime": "16.0",
+  "dependencies": [],
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "to": 50000,
+      "from": 50000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "includeSourceInSymbolFile": true,
+    "allowDownloadingSource": true,
+    "allowDebugging": true
+  }
+}
